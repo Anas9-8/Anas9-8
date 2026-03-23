@@ -2,6 +2,8 @@
 
 <div align="center">
 
+# Anas Haj Naeif
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=ML+Engineer+%7C+MLOps+%7C+Data+Scientist;Building+Production+ML+Systems;From+Biotech+Lab+to+ML+Pipelines" alt="Typing SVG" />
 
 <br>
@@ -18,7 +20,7 @@
 
 **ML Engineer** based in Heidelberg, Germany — I build systems that take machine learning from experimentation to production.
 Biotechnology background (BTA) — I understand the scientific domain context of the data, not just the engineering layer.
-Certified by **Université Paris 1 Panthéon-Sorbonne** &bull; German C1 &bull; English C1 &bull; Arabic (native)
+Certified by **Université Paris 1 Panthéon-Sorbonne** &bull; German C1 &bull; English C1 &bull; Arabic (native) &bull; Open to relocation globally
 
 ---
 
@@ -124,7 +126,10 @@ ML on **automotive CAN bus sensor data** — supervised + unsupervised (LSTM Aut
 Université Paris 1 Panthéon-Sorbonne · Liora (formerly DataScientest) · March 2026 · AZAV-accredited (932 hours)
 
 **State-Certified Biotechnology Laboratory Assistant (BTA)**
-Johannes-Gutenberg-Schule Heidelberg · Practicum at Universitätsklinikum Heidelberg
+Johannes-Gutenberg-Schule Heidelberg · 2024 · Practicum at Universitätsklinikum Heidelberg
+
+**Fachhochschulreife**
+Abendgymnasium Heidelberg · 2025
 
 <details>
 <summary><b>28 Module Certificates (click to expand)</b></summary>
