@@ -52,7 +52,7 @@ Certified by **Université Paris 1 Panthéon-Sorbonne** &bull; German C1 &bull; 
 <td width="50%" valign="top">
 
 ### [HealthAlliance DataSpace MLOps](https://github.com/Anas9-8/HealthAlliance-DataSpace-MLOps)
-Federated healthcare ML platform across **DKFZ · Uniklinik Heidelberg · EMBL** — 101K patient records, FHIR R4 ingestion, MLflow tracking, Airflow orchestration, K8s autoscaling on AWS (13 Terraform modules).
+Federated healthcare ML platform across **DKFZ · UKHD · EMBL** — 101K patient records, FHIR R4 ingestion, MLflow tracking, Airflow orchestration, K8s autoscaling on AWS (13 Terraform modules).
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
@@ -81,15 +81,29 @@ MCP server connecting **LLM agents to EMBL-EBI BioSamples** — 5 tools for subm
 <td width="50%" valign="top">
 
 ### [Rakuten MLOps](https://github.com/flemerb/rakproj)
-LSTM classifier on **84K French e-commerce products** — 27 categories, 90%+ accuracy. BentoML serving, 13-container Docker env, MLflow registry, Prometheus + Grafana monitoring with drift detection & automated alerting.
+LSTM classifier on **16K+ French e-commerce products** — 27 categories. Microservices architecture with Flask API, Airflow orchestration, MLflow tracking, DVC versioning, Prometheus + Grafana real-time monitoring.
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![BentoML](https://img.shields.io/badge/-BentoML-000000?style=flat-square&logo=bentoml&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 </td>
+<td width="50%" valign="top">
+
+### [Sovereign Document Agent](https://github.com/Anas9-8/sovereign-document-agent)
+**Local RAG system** for German PDF/DOCX processing — fully offline, no API keys, **GDPR-compliant**. LangChain + Ollama + ChromaDB with FastAPI. All data stays on your machine.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### CAN-Bus Anomaly Detection
@@ -101,6 +115,7 @@ ML on **automotive CAN bus sensor data** — supervised + unsupervised (LSTM Aut
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
