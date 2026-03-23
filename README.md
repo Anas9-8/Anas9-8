@@ -4,7 +4,7 @@
 
 # Anas Haj Naeif
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=ML+Engineer+%7C+MLOps+%7C+Data+Scientist;Building+Production+ML+Systems;From+Biotech+Lab+to+ML+Pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=ML+Engineer+%7C+MLOps+%7C+Data+Scientist;Building+Production+ML+Systems;From+Biotech+Lab+to+ML+Pipelines" alt="Typing SVG" />
 
 <br>
 
