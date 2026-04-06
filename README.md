@@ -115,7 +115,18 @@ ML on **automotive CAN bus sensor data** — supervised + unsupervised (LSTM Aut
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+
+### [ARIA — Automated Root-cause Intelligence](https://github.com/Anas9-8/ARIA-Automated-Root-cause-Intelligence-for-Analytical-Laboratories)
+AI-powered QC anomaly detection and **causal root-cause analysis** for analytical laboratories — Westgard rules, DoWhy causal graph, counterfactual simulation. **Live on AWS EC2** with GitHub Actions CI/CD. [Test instantly](http://3.78.247.13:8000/causal) — no local setup required.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
 </tr>
 </table>
 
